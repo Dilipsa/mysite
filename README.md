@@ -1,0 +1,1 @@
+Django plood voting application
