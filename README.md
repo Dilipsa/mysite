@@ -1,1 +1,1 @@
-Django plood voting application
+Django blog voting application
